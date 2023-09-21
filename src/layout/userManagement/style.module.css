@@ -1,0 +1,33 @@
+.userManagement {
+  padding: 24px;
+}
+
+.userManagementHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.searchZone {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.userManagementBody {
+  margin: 12px auto;
+}
+
+.tableTitle {
+  display: flex;
+  justify-content: space-between;
+}
+.infoTitle {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  flex: 1;
+}
+.tableAction {
+  width: 100px;
+}

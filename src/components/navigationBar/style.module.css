@@ -1,0 +1,16 @@
+.navigationBar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.menu {
+  flex: 1;
+}
+
+
+.signOutBtn {
+  width: fit-content;
+  align-self: center;
+  margin-bottom: 12px;
+}
